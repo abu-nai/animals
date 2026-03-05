@@ -1,0 +1,37 @@
+.pokemon-show {
+    position: relative;
+    border: 1px solid lightgray;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0px 3px 4px lightgray;
+}
+
+.pokemon {
+    height: 100%;
+    background-color: #E1E7DD;
+}
+
+.heart {
+    position: absolute;
+    top: 5%;
+    left: 40%;
+}
+
+.candy {
+    position: absolute;
+    bottom: 5%;
+    left: 12%;
+}
+
+.pecha {
+    position: absolute;
+    bottom: 5%;
+    left: 40%;
+}
+
+.doll {
+    position: absolute;
+    bottom: 5%;
+    left: 70%;
+}

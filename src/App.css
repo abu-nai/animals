@@ -1,0 +1,23 @@
+body {
+    background-color: #FFFAFA;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 5px;
+    width: 20%;
+}
+
+.pokemon-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
